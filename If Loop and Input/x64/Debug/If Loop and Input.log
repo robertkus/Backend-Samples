@@ -1,0 +1,3 @@
+﻿  IfLoopAndInput.cpp
+C:\Users\rober\OneDrive\Documents\Visual Studio 2022\CSIS111_Projects\If Loop and Input\IfLoopAndInput.cpp(49,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  If Loop and Input.vcxproj -> C:\Users\rober\OneDrive\Documents\Visual Studio 2022\CSIS111_Projects\If Loop and Input\x64\Debug\If Loop and Input.exe
