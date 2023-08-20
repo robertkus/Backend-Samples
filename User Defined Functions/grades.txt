@@ -1,0 +1,10 @@
+Kim 45 50
+James 47 50
+Todd 41 50
+Carly 38 50
+Marcy 48 50
+Tim 39 50
+Randy 42 50
+John 28 50
+Betty 33 50
+Tommy 24 50
