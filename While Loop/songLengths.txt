@@ -1,0 +1,17 @@
+Song           Song  Time         Total  Time
+Number      Minutes  Seconds    Minutes  Seconds
+------      -------  -------    -------  -------
+
+1              5       10          5       10
+2              7       42         12       52
+3             10       27         23       19
+4              4       33         27       52
+5              5        0         32       52
+6              8       55         41       47
+7              4       19         46        6
+8             10       25         56       31
+9             12       16         68       47
+10             2        2         70       49
+
+There are 9 minutes and 11 seconds of space left on the 80-minute CD.
+
