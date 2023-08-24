@@ -1,0 +1,4 @@
+﻿  bagtestmain.cpp
+C:\Users\rober\Documents\Visual Studio 2022\CSIS215_Projects\Robert_Kus_Bag_Assignment\Robert_Kus_Bag_Assignment\book.h(78,1): warning C4005: 'INFINITY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_math.h(88,1): message : see previous definition of 'INFINITY'
+  Robert_Kus_Bag_Assignment.vcxproj -> C:\Users\rober\Documents\Visual Studio 2022\CSIS215_Projects\Robert_Kus_Bag_Assignment\x64\Debug\Robert_Kus_Bag_Assignment.exe
