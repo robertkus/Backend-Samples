@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\rober\Documents\Visual Studio 2022\CSIS215_Projects\Robert_Kus_LRU_Buffer_Pool\Robert_Kus_LRU_Buffer_Pool\LRUBufferPool.h(44,1): warning C4154: deletion of an array expression; conversion to pointer supplied
+  Robert_Kus_LRU_Buffer_Pool.vcxproj -> C:\Users\rober\Documents\Visual Studio 2022\CSIS215_Projects\Robert_Kus_LRU_Buffer_Pool\x64\Debug\Robert_Kus_LRU_Buffer_Pool.exe
