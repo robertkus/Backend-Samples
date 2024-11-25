@@ -1,0 +1,7 @@
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS209 C-Sharp Programming\Projects\rk_salesCalculatorAssignment\bin\Debug\rk_salesCalculatorAssignment.exe.config
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS209 C-Sharp Programming\Projects\rk_salesCalculatorAssignment\bin\Debug\rk_salesCalculatorAssignment.exe
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS209 C-Sharp Programming\Projects\rk_salesCalculatorAssignment\bin\Debug\rk_salesCalculatorAssignment.pdb
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS209 C-Sharp Programming\Projects\rk_salesCalculatorAssignment\obj\Debug\rk_salesCalculatorAssignment.csproj.AssemblyReference.cache
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS209 C-Sharp Programming\Projects\rk_salesCalculatorAssignment\obj\Debug\rk_salesCalculatorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS209 C-Sharp Programming\Projects\rk_salesCalculatorAssignment\obj\Debug\rk_salesCalculatorAssignment.exe
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS209 C-Sharp Programming\Projects\rk_salesCalculatorAssignment\obj\Debug\rk_salesCalculatorAssignment.pdb
