@@ -1,0 +1,7 @@
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS209 C-Sharp Programming\Projects\rk_diceAnalyticsAssignment\bin\Debug\rk_diceAnalyticsAssignment.exe.config
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS209 C-Sharp Programming\Projects\rk_diceAnalyticsAssignment\bin\Debug\rk_diceAnalyticsAssignment.exe
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS209 C-Sharp Programming\Projects\rk_diceAnalyticsAssignment\bin\Debug\rk_diceAnalyticsAssignment.pdb
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS209 C-Sharp Programming\Projects\rk_diceAnalyticsAssignment\obj\Debug\rk_diceAnalyticsAssignment.csproj.AssemblyReference.cache
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS209 C-Sharp Programming\Projects\rk_diceAnalyticsAssignment\obj\Debug\rk_diceAnalyticsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS209 C-Sharp Programming\Projects\rk_diceAnalyticsAssignment\obj\Debug\rk_diceAnalyticsAssignment.exe
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS209 C-Sharp Programming\Projects\rk_diceAnalyticsAssignment\obj\Debug\rk_diceAnalyticsAssignment.pdb
