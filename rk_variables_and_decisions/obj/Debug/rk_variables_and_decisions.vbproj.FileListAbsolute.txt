@@ -1,0 +1,12 @@
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_variables_and_decisions\obj\Debug\rk_variables_and_decisions.vbproj.AssemblyReference.cache
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_variables_and_decisions\obj\Debug\rk_variables_and_decisions.Resources.resources
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_variables_and_decisions\obj\Debug\rk_variables_and_decisions.vbproj.GenerateResource.cache
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_variables_and_decisions\obj\Debug\rk_variables_and_decisions.vbproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_variables_and_decisions\bin\Debug\rk_variables_and_decisions.exe.config
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_variables_and_decisions\bin\Debug\rk_variables_and_decisions.exe
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_variables_and_decisions\bin\Debug\rk_variables_and_decisions.pdb
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_variables_and_decisions\bin\Debug\rk_variables_and_decisions.xml
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_variables_and_decisions\obj\Debug\rk_variables_and_decisions.exe
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_variables_and_decisions\obj\Debug\rk_variables_and_decisions.xml
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_variables_and_decisions\obj\Debug\rk_variables_and_decisions.pdb
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_variables_and_decisions\obj\Debug\rk_variables_and_decisions.frmAssignment2.resources
