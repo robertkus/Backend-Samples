@@ -1,0 +1,12 @@
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_classes_and_objects_programming\obj\Debug\rk_classes_and_objects_programming.vbproj.AssemblyReference.cache
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_classes_and_objects_programming\obj\Debug\rk_classes_and_objects_programming.frmAssignment6.resources
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_classes_and_objects_programming\obj\Debug\rk_classes_and_objects_programming.Resources.resources
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_classes_and_objects_programming\obj\Debug\rk_classes_and_objects_programming.vbproj.GenerateResource.cache
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_classes_and_objects_programming\obj\Debug\rk_classes_and_objects_programming.vbproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_classes_and_objects_programming\bin\Debug\rk_classes_and_objects_programming.exe.config
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_classes_and_objects_programming\bin\Debug\rk_classes_and_objects_programming.exe
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_classes_and_objects_programming\bin\Debug\rk_classes_and_objects_programming.pdb
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_classes_and_objects_programming\bin\Debug\rk_classes_and_objects_programming.xml
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_classes_and_objects_programming\obj\Debug\rk_classes_and_objects_programming.exe
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_classes_and_objects_programming\obj\Debug\rk_classes_and_objects_programming.xml
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_classes_and_objects_programming\obj\Debug\rk_classes_and_objects_programming.pdb
