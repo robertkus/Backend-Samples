@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rk_thePowerOfNumbersAssignment", "rk_thePowerOfNumbersAssignment.csproj", "{15217A3C-A287-4C03-B6D0-ED7BF46DEF03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15217A3C-A287-4C03-B6D0-ED7BF46DEF03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15217A3C-A287-4C03-B6D0-ED7BF46DEF03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15217A3C-A287-4C03-B6D0-ED7BF46DEF03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15217A3C-A287-4C03-B6D0-ED7BF46DEF03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEDE6BA6-384B-4FEA-B19E-B68A25E0EC82}
+	EndGlobalSection
+EndGlobal

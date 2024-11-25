@@ -1,0 +1,7 @@
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_thePowerOfNumbersAssignment\bin\Debug\rk_thePowerOfNumbersAssignment.exe.config
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_thePowerOfNumbersAssignment\bin\Debug\rk_thePowerOfNumbersAssignment.exe
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_thePowerOfNumbersAssignment\bin\Debug\rk_thePowerOfNumbersAssignment.pdb
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_thePowerOfNumbersAssignment\obj\Debug\rk_thePowerOfNumbersAssignment.csproj.AssemblyReference.cache
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_thePowerOfNumbersAssignment\obj\Debug\rk_thePowerOfNumbersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_thePowerOfNumbersAssignment\obj\Debug\rk_thePowerOfNumbersAssignment.exe
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_thePowerOfNumbersAssignment\obj\Debug\rk_thePowerOfNumbersAssignment.pdb
