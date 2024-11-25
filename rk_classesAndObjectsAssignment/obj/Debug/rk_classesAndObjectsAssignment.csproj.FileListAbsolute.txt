@@ -1,0 +1,7 @@
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS209 C-Sharp Programming\Projects\rk_classesAndObjectsAssignment\bin\Debug\rk_classesAndObjectsAssignment.exe.config
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS209 C-Sharp Programming\Projects\rk_classesAndObjectsAssignment\bin\Debug\rk_classesAndObjectsAssignment.exe
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS209 C-Sharp Programming\Projects\rk_classesAndObjectsAssignment\bin\Debug\rk_classesAndObjectsAssignment.pdb
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS209 C-Sharp Programming\Projects\rk_classesAndObjectsAssignment\obj\Debug\rk_classesAndObjectsAssignment.csproj.AssemblyReference.cache
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS209 C-Sharp Programming\Projects\rk_classesAndObjectsAssignment\obj\Debug\rk_classesAndObjectsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS209 C-Sharp Programming\Projects\rk_classesAndObjectsAssignment\obj\Debug\rk_classesAndObjectsAssignment.exe
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS209 C-Sharp Programming\Projects\rk_classesAndObjectsAssignment\obj\Debug\rk_classesAndObjectsAssignment.pdb
