@@ -1,0 +1,12 @@
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_controls_events_assignment\obj\Debug\rk_controls_events_assignment.vbproj.AssemblyReference.cache
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_controls_events_assignment\obj\Debug\rk_controls_events_assignment.frmAssignment1.resources
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_controls_events_assignment\obj\Debug\rk_controls_events_assignment.Resources.resources
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_controls_events_assignment\obj\Debug\rk_controls_events_assignment.vbproj.GenerateResource.cache
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_controls_events_assignment\obj\Debug\rk_controls_events_assignment.vbproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_controls_events_assignment\bin\Debug\rk_controls_events_assignment.exe.config
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_controls_events_assignment\bin\Debug\rk_controls_events_assignment.exe
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_controls_events_assignment\bin\Debug\rk_controls_events_assignment.pdb
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_controls_events_assignment\bin\Debug\rk_controls_events_assignment.xml
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_controls_events_assignment\obj\Debug\rk_controls_events_assignment.exe
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_controls_events_assignment\obj\Debug\rk_controls_events_assignment.xml
+C:\Users\rober\Desktop\College\Liberty University\2024\3. Fall\CSIS208 Application Programming\Projects\rk_controls_events_assignment\obj\Debug\rk_controls_events_assignment.pdb
